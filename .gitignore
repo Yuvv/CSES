@@ -1,0 +1,23 @@
+# editor specific
+## vscode
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+*.code-workspace
+
+## Jetbrains
+.idea
+
+# language specific
+## python
+__pycache__/
+*.py[cod]
+*$py.class
+
+## java
+*.class
+*.jar
+
+# platform specific
+## windows
+*.exe
